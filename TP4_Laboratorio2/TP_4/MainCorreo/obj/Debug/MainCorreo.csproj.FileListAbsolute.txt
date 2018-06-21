@@ -1,0 +1,55 @@
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\bin\Debug\TP_4.dll
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\bin\Debug\TP_4.pdb
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\dsdip\source\repos\TP_4\MainCorreo\obj\Debug\MainCorreo.pdb
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\MainCorreo.exe.config
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\MainCorreo.exe
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\MainCorreo.pdb
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\mscorlib.dll
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\System.Net.Http.dll
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\TP_4.dll
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\TP_4.pdb
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\System.Net.Http.xml
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\normidna.nlp
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\normnfc.nlp
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\normnfd.nlp
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\normnfkc.nlp
+D:\VisualStudio\TP4\TP_4\MainCorreo\bin\Debug\normnfkd.nlp
+D:\VisualStudio\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+D:\VisualStudio\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+D:\VisualStudio\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+D:\VisualStudio\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+D:\VisualStudio\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.exe
+D:\VisualStudio\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\bin\Debug\TP_4.dll
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\bin\Debug\TP_4.pdb
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\TP4\TP_4\MainCorreo\bin\Debug\TP_4.dll.config
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\bin\Debug\MainCorreo.exe.config
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.exe
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.pdb
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\bin\Debug\MainCorreo.exe
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\bin\Debug\MainCorreo.pdb
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\bin\Debug\TP_4.dll
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\bin\Debug\TP_4.pdb
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+D:\VisualStudio\Diego\TP4\TP_4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
